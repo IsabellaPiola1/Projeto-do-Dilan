@@ -1,2 +1,2 @@
-# Projeto-do-Dilan
+# 2TDSG-ProjetoDoDilan
 Projeto exemplo de uso do GIT na empresa do Dila
